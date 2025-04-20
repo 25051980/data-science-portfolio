@@ -45,6 +45,9 @@ All queries were executed using **standard SQL** syntax within a Jupyter Noteboo
 
 ## ▶️ How to Use
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/)
-2. Ensure a SQL runtime (e.g., SQLite or PostgreSQL with `ipython-sql`) is configured
-3. Run each SQL cell sequentially to explore the dataset and reproduce the insights
+You can view the notebook directly on GitHub:
+
+👉 [View SQLProject.ipynb](https://github.com/25051980/EBAC-SQL-Project/blob/main/SQLProject.ipynb)
+
+
+
