@@ -3,7 +3,9 @@ Portfolio
 
 # 📊 Data Science Portfolio – Samuel Walford
 
-Welcome to my data science portfolio! I'm a British-Portuguese data scientist with a background in education and a strong foundation in analytics, machine learning, and software development. This repository showcases projects I've developed during my postgraduate studies in **Data Science and Analytics** and throughout the 11-month **Data Science Bootcamp at EBAC – Escola Britânica de Artes Criativas e Tecnologia**.
+Welcome to my data science portfolio! I'm a British-Portuguese data scientist with a background in education and a strong foundation in analytics, machine learning, and software development. This repository showcases projects I've developed during my **postgraduate studies** in **Data Science and Analytics** and throughout the 11-month **Data Science Bootcamp at EBAC – Escola Britânica de Artes Criativas e Tecnologia**. 
+It also includes projects from my current **MSc in Cyber Security at St Mary’s University, Twickenham**, where I’m expanding my expertise in network security, ethical hacking, artificial intelligence, cloud infrastructure, and secure software development.
+
 
 ---
 
