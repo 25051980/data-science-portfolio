@@ -13,11 +13,11 @@ The goal is to build a predictive model that identifies whether a customer is li
 ## 🛠️ Tools and Libraries Used
 
 - **Python**
-- **NumPy** and **Pandas** – data manipulation and analysis  
-- **Matplotlib** and **Seaborn** – data visualization  
-- **SciPy** – statistical analysis  
-- **Scikit-learn** – data preprocessing and machine learning  
-- **Google Colab** – project development environment  
+- **NumPy** and **Pandas** – Data manipulation and analysis  
+- **Matplotlib** and **Seaborn** – Data visualization  
+- **SciPy** – Statistical analysis  
+- **Scikit-learn** – Data preprocessing and machine learning  
+- **Google Colab** – Project development environment
 
 ---
 
@@ -27,7 +27,7 @@ The goal is to build a predictive model that identifies whether a customer is li
 - Decision Tree  
 - Random Forest  
 
-Models were evaluated using classification metrics such as accuracy, precision, recall, and F1-score.
+> Models were evaluated using classification metrics such as **accuracy**, **precision**, **recall**, and **F1-score**.
 
 ---
 
@@ -41,7 +41,7 @@ Models were evaluated using classification metrics such as accuracy, precision, 
 
 ## ▶️ How to Run the Notebook
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/)  
+1. Open the notebook in [Google Colab](https://colab.research.google.com/)
 2. Mount your Google Drive to access the dataset:
    ```python
    from google.colab import drive
