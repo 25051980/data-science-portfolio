@@ -13,20 +13,20 @@ Airline companies in the United States face strong competition, and social media
 ## 🛠️ Tools and Libraries Used
 
 - **Python**
-- **TensorFlow / Keras** – Deep learning framework
-- **Pandas / NumPy** – Data manipulation
-- **Matplotlib / Seaborn** – Visualizations
-- **Scikit-learn** – Preprocessing, train-test split, metrics
-- **CountVectorizer / Tokenizer / Padding** – NLP preprocessing
+- **TensorFlow / Keras** – Deep learning framework  
+- **Pandas / NumPy** – Data manipulation  
+- **Matplotlib / Seaborn** – Visualizations  
+- **Scikit-learn** – Preprocessing, train-test split, metrics  
+- **CountVectorizer / Tokenizer / Padding** – NLP preprocessing  
 - **Google Colab** – Development environment
 
 ---
 
 ## 🤖 ML Models Used
 
-- Neural Network (using TensorFlow/Keras)
-- Logistic Regression (baseline)
-- Random Forest (baseline)
+- Neural Network (using TensorFlow/Keras)  
+- Logistic Regression (baseline)  
+- Random Forest (baseline)  
 
 The neural network model was trained to classify tweet sentiment and compared to traditional machine learning models to evaluate performance.
 
@@ -34,17 +34,20 @@ The neural network model was trained to classify tweet sentiment and compared to
 
 ## 📊 Summary of Results
 
-- **Dataset**: 14,640 tweets (sample of 600 used due to computational limitations)
-- **Target variable**: `airline_sentiment`
-- **Classes**: "Positive/Neutral" vs. "Negative"
+- **Dataset**: 14,640 tweets (sample of 600 used due to computational limitations)  
+- **Target variable**: `airline_sentiment`  
+- **Classes**: "Positive/Neutral" vs. "Negative"  
 - The neural network achieved a reasonable performance and outperformed classical models in capturing subtle patterns in text sentiment.
 
 ---
 
 ## ▶️ How to Run the Notebook
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/)
-2. The dataset is loaded directly from a URL:
-   ```python
-   url = 'https://raw.githubusercontent.com/25051980/MVP1/main/Tweets.csv'
-   df = pd.read_csv(url)
+Open the notebook in Google Colab using the link below:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1sedSJrARwFqGpAwN-0LS-AZZhX1GFYdY)
+
+The dataset is loaded directly from a URL:
+```python
+url = 'https://raw.githubusercontent.com/25051980/MVP1/main/Tweets.csv'
+df = pd.read_csv(url)
