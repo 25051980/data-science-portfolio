@@ -66,6 +66,7 @@ This portfolio serves to:
 Feel free to explore my projects, and don’t hesitate to reach out for collaboration, feedback, or job opportunities!
 
 📫 [LinkedIn]https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
 🌍 Dual Nationality: British & Portuguese | Open to Remote & EU-based roles
 
 ---
