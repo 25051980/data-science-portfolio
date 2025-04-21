@@ -64,7 +64,7 @@ Evaluation metrics and hyperparameter tuning included in `model_final.pkl.ipynb`
 **Samuel Walford**  
 Data Science Postgraduate – PUC Rio  
 Cyber Security MSc Student – St Mary’s University, Twickenham  
-📫 [LinkedIn](www.linkedin.com/in/samuelwalforddatacience)
+📫 [LinkedIn](https://www.linkedin.com/in/samuelwalforddatacience/)
 
 ---
 
