@@ -43,8 +43,7 @@ This project includes everything needed to deploy to Heroku:
 To deploy:
 
 ```bash
-heroku create your-app-name
-git push heroku main
+heroku: (https://afternoon-gorge-86424-c3268019ba34.herokuapp.com/)
 ```
 
 ## 🙋 Author
