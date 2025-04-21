@@ -30,13 +30,7 @@ pip install -r requirements.txt
 
 ## ▶️ Running the App
 
-To run the application locally:
-
-```bash
-python Mod_31.py
-```
-
-> Note: Adjust if the script expects command-line input or reads from a file.
+To run the application: Git Hub (https://github.com/25051980/Mod_31)
 
 ## ☁️ Deployment
 
