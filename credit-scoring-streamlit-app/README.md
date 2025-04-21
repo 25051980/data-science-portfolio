@@ -57,14 +57,14 @@ Evaluation metrics and hyperparameter tuning included in `model_final.pkl.ipynb`
 
 ## 🎥 Demo Video
 
-> *(Optional: Insert a link to your demo video if available)*
+> *(https://drive.google.com/file/d/1NlFEv6v5pdRxqxzSj-mphNRmj5L8hRZa/view?usp=drive_link)*
 
 ## 🙋 About the Author
 
 **Samuel Walford**  
 Data Science Postgraduate – PUC Rio  
 Cyber Security MSc Student – St Mary’s University, Twickenham  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 [LinkedIn](www.linkedin.com/in/samuelwalforddatacience)
 
 ---
 
