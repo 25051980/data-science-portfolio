@@ -51,7 +51,7 @@ Models were evaluated using metrics like:
 
 Open the notebook in Google Colab:
 
-👉 [Open in Google Colab](https://colab.research.google.com/drive/1eL2AosLzL98kIckKHk-rvHkpNCc1c1LQ)
+👉 [Open in Google Colab](https://colab.research.google.com/drive/19nul4Pk231yaxS6XcRotjQVauzJe3z6w?usp=sharing)
 
 The dataset is automatically loaded from this URL:
 
