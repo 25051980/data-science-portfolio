@@ -1,76 +1,69 @@
-# data-science-portfolio
-Portfolio
+# Data Science Portfolio
 
-# 📊 Data Science Portfolio – Samuel Walford
+This repository presents applied work in **Data Science, Machine Learning, and Analytics**, developed through postgraduate studies and professional training.
 
-Welcome to my data science portfolio! I'm a British-Portuguese data scientist with a background in education and a strong foundation in analytics, machine learning, and software development. This repository showcases projects I've developed during my **postgraduate studies** in **Data Science and Analytics** and throughout the 11-month **Data Science Bootcamp at EBAC – Escola Britânica de Artes Criativas e Tecnologia**. 
-It also includes projects from my current **MSc in Cyber Security at St Mary’s University, Twickenham**, where I’m expanding my expertise in network security, ethical hacking, artificial intelligence, cloud infrastructure, and secure software development.
-
+The portfolio includes academic coursework and practical projects focused on real-world data problems, reproducible analysis, and clear methodological reasoning. It reflects a strong foundation in data analysis and machine learning, with growing integration of security-aware and systems-level thinking.
 
 ---
 
-## 🎓 About Me
+## Areas of Focus
 
-I hold a **postgraduate degree in Data Science and Analytics** from the Pontifical Catholic University, where I specialized in:
-
-- ✅ Machine Learning & Deep Learning  
-- ✅ Data Analytics & Business Intelligence  
-- ✅ Data Engineering (ETL, Cloud, Pipelines)
-
-Additionally, I completed the **EBAC Data Science Bootcamp**, a comprehensive program with hands-on experience using real-world datasets, business cases, and end-to-end machine learning solutions.
-
-Currently, I’m pursuing a **Master’s in Cyber Security** at St Mary’s University, Twickenham, expanding my skills in digital security, ethical hacking, and AI in security contexts.
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Data Analysis & Visualisation  
+- SQL & Data Engineering  
+- Applied Analytics (Customer Behaviour, Finance, Education)
 
 ---
 
-## 🧰 Technical Skills
+## Selected Work
 
-**Languages & Tools**  
-`Python` | `SQL` | `R` | `Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `Keras` | `Matplotlib` | `Seaborn` | `Power BI` | `Looker Studio` | `Jupyter Notebook` | `Git` | `Streamlit`
+Examples of representative projects in this repository include:
 
-**Areas of Expertise**
-- Supervised & Unsupervised Learning
-- Time Series Forecasting
-- Natural Language Processing (NLP)
-- Churn Prediction
-- Sentiment Analysis
-- Data Cleaning & Preprocessing
-- Model Evaluation & Tuning (GridSearchCV, cross-validation)
-- Data Visualization & Dashboards
-- Data Engineering Concepts (ETL, Data Pipelines)
-- Multicloud: AWS, Azure, GCP
+- **Sentiment Analysis on Airline Customer Feedback**  
+  NLP project applying deep learning techniques to classify customer sentiment from airline-related tweets.
 
----
+- **Churn Prediction using Machine Learning**  
+  Supervised learning models developed to predict customer churn, with emphasis on feature engineering, evaluation metrics, and business interpretation.
 
-## 📁 Project Highlights
+- **Credit Scoring Application (Streamlit)**  
+  End-to-end credit risk analysis project, including model development and interactive deployment.
 
-This repository includes a collection of data science projects organized into folders. Each folder contains a `README.md` explaining the project goals, methods, and results.
+- **Human Activity Recognition with PCA**  
+  Dimensionality reduction and classification techniques applied to sensor data for activity recognition.
 
-### Example Projects:
-- `churn-prediction`: Machine learning model to predict telecom customer churn  
-- `sentiment-analysis-airlines`: LSTM-based model for tweet sentiment classification  
-- `credit-scoring`: Predictive modeling for financial risk classification  
-- `education-insights`: Exploratory and ML analysis of global education data from the World Bank  
+- **Olist Logistics – Data Engineering Project**  
+  Data engineering and analytics workflow applied to a large e-commerce logistics dataset.
+
+- **SQL & Python with PostgreSQL**  
+  Practical SQL analysis combined with Python for querying, aggregation, and analytical tasks.
+
+Each project folder contains documentation outlining the **problem context, approach, tools used, and outcomes**.
 
 ---
 
-## 📌 Purpose of this Portfolio
+## Tools & Technologies
 
-This portfolio serves to:
-- Demonstrate my technical capabilities as a data scientist
-- Share reproducible, real-world projects built from scratch
-- Highlight my transition from education to tech through applied learning and continuous development
-
----
-
-## 🤝 Let's Connect
-
-Feel free to explore my projects, and don’t hesitate to reach out for collaboration, feedback, or job opportunities!
-
-📫 [LinkedIn]https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
-🌍 Dual Nationality: British & Portuguese | Open to Remote & EU-based roles
+- **Programming & Analysis:** Python, Pandas, NumPy  
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- **Databases & SQL:** PostgreSQL  
+- **Visualisation:** Matplotlib, Seaborn  
+- **Deployment:** Streamlit  
+- **Workflow:** Jupyter Notebooks, Git
 
 ---
 
-> *“Turning data into insights—and now, securing them too.”*
+## Portfolio Notes
+
+- The repository contains both **completed projects** and **academic coursework**, reflecting continuous skill development.  
+- Some projects are exploratory or iterative by design, demonstrating learning progression rather than only final results.  
+- The portfolio is actively maintained and expanded.
+
+---
+
+## About
+
+I have a postgraduate background in **Data Science and Analytics** and am currently completing an **MSc in Cyber Security**.  
+My interests lie at the intersection of **data science, applied machine learning, secure systems, and analytics in education and business contexts**.
+
+📌 *For recruiters and collaborators, please explore individual project folders for detailed documentation and code.*
