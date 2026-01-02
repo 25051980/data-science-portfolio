@@ -1,1 +1,105 @@
+# Customer Churn Analysis in a Telecommunications Company
+
+This project focuses on analysing and predicting customer churn in the telecommunications sector using supervised machine learning techniques.  
+The objective is to identify customers at risk of cancelling their service and to extract actionable insights that can support data-driven retention strategies.
+
+The work was developed as part of postgraduate-level training in **Data Science and Analytics** and reflects a complete end-to-end machine learning workflow.
+
+---
+
+## Problem Context
+
+Customer churn has a direct impact on revenue and long-term sustainability in the telecommunications industry.  
+By predicting which customers are likely to leave, companies can intervene proactively through targeted offers, service improvements, or personalised engagement strategies.
+
+The challenge addressed in this project is to build a reliable classification model that distinguishes between customers who are likely to churn and those who are not.
+
+---
+
+## Dataset Overview
+
+The dataset contains customer-level information, including:
+
+- Contract and subscription details  
+- Tenure and service usage  
+- Billing and payment attributes  
+- Customer demographic indicators  
+
+The target variable indicates whether a customer has churned.
+
+---
+
+## Methodology
+
+The project followed a structured machine learning pipeline:
+
+1. **Exploratory Data Analysis (EDA)**  
+   - Understanding feature distributions and relationships  
+   - Identifying potential drivers of churn  
+
+2. **Data Preprocessing**  
+   - Handling missing values  
+   - Encoding categorical variables  
+   - Feature scaling where appropriate  
+
+3. **Model Development**  
+   Multiple supervised learning models were trained and compared.
+
+4. **Model Evaluation**  
+   Performance was assessed using standard classification metrics and interpreted from a business perspective.
+
+---
+
+## Models Implemented
+
+- Logistic Regression  
+- Decision Tree  
+- Random Forest  
+
+Models were evaluated using:
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+
+---
+
+## Key Results & Insights
+
+- Contract type, tenure, and monthly charges were among the most influential factors affecting churn  
+- Ensemble-based models (Random Forest) achieved the strongest overall performance  
+- Visualisations and descriptive statistics supported interpretability and business understanding  
+
+The results demonstrate how predictive modelling can be used not only for classification accuracy, but also for generating insights relevant to decision-makers.
+
+---
+
+## Tools & Technologies
+
+- **Programming Language:** Python  
+- **Libraries:**  
+  - Pandas, NumPy – data manipulation  
+  - Matplotlib, Seaborn – visualisation  
+  - SciPy – statistical analysis  
+  - Scikit-learn – preprocessing and machine learning  
+- **Environment:** Jupyter Notebook / Google Colab  
+
+---
+
+## How to Run
+
+1. Open the notebook in **Google Colab**:(https://colab.research.google.com/drive/1Ftck_xA1TlEDK7MU9mOecA9ia6ZG9vsh?usp=chrome_ntp)  
+2. Install the required Python libraries  
+3. Load the dataset  
+4. Run the notebook cells sequentially to reproduce the analysis and results  
+
+---
+
+## Notes
+
+This project is intended to demonstrate:
+- Practical application of machine learning to a real business problem  
+- A structured analytical workflow  
+- Clear interpretation of results beyond model performance alone  
+
 
